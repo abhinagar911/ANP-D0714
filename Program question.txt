@@ -1,0 +1,79 @@
+### 1. Basics (Variables, Data Types, Input/Output)
+
+1. Write a Java program to print "Hello, World!" on the screen.  
+2. Write a program to declare two integers and print their sum.  
+3. Take input from the user (name and age) and print a greeting message.  
+4. Swap two numbers without using a third variable.  
+5. Write a program to check if a number is even or odd.  
+
+---
+
+### 2. Conditional Statements
+
+1. Write a program to find the maximum of three numbers.  
+2. Check if a number is positive, negative, or zero.  
+3. Take a year as input and check if it’s a leap year.  
+4. Write a program to determine if a character is a vowel or consonant.  
+5. Create a basic calculator (addition, subtraction, multiplication, division) using switch-case.  
+
+---
+
+### 3. Loops (For, While, Do-While)
+
+1. Print numbers from 1 to 100 using a loop.  
+2. Print the multiplication table of any number (e.g., table of 5).  
+3. Calculate the sum of digits of a number.  
+4. Write a program to reverse a number (e.g., 123 → 321).  
+5. Print the Fibonacci series up to `n` terms.  
+6. Check if a number is prime or not.  
+
+---
+
+### 4. Arrays
+
+1. Find the largest and smallest elements in an array.  
+2. Reverse an array.  
+3. Count the frequency of each element in an array.  
+4. Find the second largest number in an array.  
+5. Write a program to sort an array in ascending order.  
+
+---
+
+### 5. Strings
+
+1. Take a string input and print it in reverse.  
+2. Count the number of vowels, consonants, digits, and spaces in a string.  
+3. Check if a string is a palindrome.  
+4. Convert a string to uppercase and lowercase.  
+5. Find the number of words in a sentence.  
+
+---
+
+### 6. Functions/Methods
+
+1. Write a function to calculate the factorial of a number.  
+2. Create a function to check if a number is prime.  
+3. Write a function to find the GCD (Greatest Common Divisor) of two numbers.  
+4. Create a function to check if a string is a palindrome.  
+5. Implement a function to find the power of a number without using `Math.pow()`.  
+
+---
+
+### 7. Object-Oriented Programming (OOP)
+
+1. Create a `Car` class with attributes like brand, model, and price. Create objects and display details.  
+2. Implement a class `Rectangle` with methods to calculate area and perimeter.  
+3. Create a `Student` class with fields like name, roll number, and marks. Add a method to display the grade.  
+4. Write a program to demonstrate method overloading (same method name, different parameters).  
+5. Implement inheritance: Create a `Person` class and a `Student` subclass that inherits from `Person`.  
+
+---
+
+### 8. Bonus (Little More Challenging)
+
+1. Implement a program to sort strings lexicographically (dictionary order).  
+2. Write a program to count the number of occurrences of each character in a string.  
+3. Build a simple number guessing game.  
+4. Create a basic bank account class with deposit and withdrawal methods.  
+5. Implement a mini-library system where users can borrow and return books.
+

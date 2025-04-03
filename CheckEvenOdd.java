@@ -1,9 +1,8 @@
-// 5. Write a program to check if a number is even or odd.  
+package com.Abhishek;
+import java.util.*;
+public class CheckEvenOdd {
 
-import java.util.Scanner;
-
-public class Check {
-    public static void main(String[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		int num;
@@ -14,7 +13,7 @@ public class Check {
 		System.out.println("Number is even");
 		else
 			System.out.println("Number is odd");
-		
-
+//		Scanner.close();
 	}
+
 }
